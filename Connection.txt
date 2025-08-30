@@ -1,0 +1,7 @@
+✅ Final Connection Summary:
+
+    ESP32 3.3V/5V → MQ2 VCC
+
+    ESP32 GND → MQ2 GND
+
+    ESP32 GPIO34 → MQ2 A0
